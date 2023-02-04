@@ -3,5 +3,5 @@
 
 
 class Rectangle:
-	""" Empty class Rectangle """
-	pass
+    """ Empty class Rectangle """
+    pass
